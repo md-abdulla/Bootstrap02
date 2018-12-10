@@ -1,0 +1,53 @@
+.banner{
+	
+background: url(../img/skyline-3581739_1920.jpg);
+	
+background-size: cover;
+}
+.navbar-brand img{
+	width: 60px;
+    height: 60px;
+}
+.vh{
+	height: 80vh;
+}
+.address{
+	padding: 50px 0;
+}
+.address .col-12{
+	overflow: hidden;
+	background-size: cover;
+	
+}
+.address .col-3{
+	padding:50px 0;
+	overflow: hidden;
+}
+.pragraph{
+	padding: 50px 0;
+}
+.buld{
+	
+padding: 50px 0;
+	
+background: #0a0a0a08;
+}
+.buld h3{
+	
+max-width: 400px;
+}
+.data{
+	
+max-width: 250px;
+}
+.buld.col-lg{
+	    padding: 50px 0;
+}
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    font-size: 25px;
+}
+.youtube{
+	
+color: red;
+}
